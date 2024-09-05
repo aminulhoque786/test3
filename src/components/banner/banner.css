@@ -1,0 +1,14 @@
+.banner{
+    text-align: center;
+    background-color: bisque;
+}
+.banner button{
+    padding: 10px 40px;
+    background-color:#a295c3;
+    font-weight: 700;
+    font-size: 30px;
+}
+.one{
+    font-size: 40px;
+    font-weight: 600;
+}
